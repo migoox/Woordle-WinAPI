@@ -1,0 +1,8 @@
+﻿  Application.cpp
+  GameWindow.cpp
+  KeyboardWindow.cpp
+C:\Users\migox\Desktop\WordleWinAPI\WordleWinAPI\KeyboardWindow.cpp(108,54): warning C4244: 'argument': conversion from 'float' to 'BYTE', possible loss of data
+  main.cpp
+  Window.cpp
+  Generating Code...
+  WordleWinAPI.vcxproj -> C:\Users\migox\Desktop\WordleWinAPI\x64\Debug\WordleWinAPI.exe
